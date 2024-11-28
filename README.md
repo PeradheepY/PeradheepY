@@ -2,7 +2,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peradheepy&label=Profile%20views&color=0e75b6&style=flat" alt="peradheepy" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Embedded Tech's**
 
 - 👯 I’m looking to collaborate on **enlighten teams**
 
