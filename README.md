@@ -88,10 +88,10 @@
 <h2 align="center"> Connect with Me </h2>
 <div align="center">
     <a href="mailto:peradheep200617@outlook.com" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" title="Email" height="40"/>
+      <img src="https://img.icons8.com/?size=70&id=ut6gQeo5pNqf&format=png&color=000000" title="Email""/>
     </a>
-    <a href="https://www.linkedin.com/in/peradheep-y" target="_blank"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" title="Linkedin" height="40" /></a>
-    <a href="https://www.linkedin.com/in/peradheep-y" target="_blank"><img src="https://img.icons8.com/?size=100&id=Wkmw3VcFPr8T&format=png&color=000000"  title="Dribble" height="40" /></a>
-    <a href="https://x.com/pradeep46122514" target="_blank"><img src="https://img.icons8.com/?size=100&id=5MQ0gPAYYx7a&format=png&color=000000" title="Twitter" height="40" /></a>
-<a href="https://www.instagram.com/peradheepyuvaraj" target="_blank"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" title="Instagram" height="40" /></a>
+    <a href="https://www.linkedin.com/in/peradheep-y" target="_blank"><img src="https://img.icons8.com/?size=70&id=xuvGCOXi8Wyg&format=png&color=000000" title="Linkedin"/></a>
+    <a href="https://www.linkedin.com/in/peradheep-y" target="_blank"><img src="https://img.icons8.com/?size=70&id=Wkmw3VcFPr8T&format=png&color=000000"  title="Dribble"/></a>
+    <a href="https://x.com/pradeep46122514" target="_blank"><img src="https://img.icons8.com/?size=70&id=5MQ0gPAYYx7a&format=png&color=000000" title="Twitter"/></a>
+<a href="https://www.instagram.com/peradheepyuvaraj" target="_blank"><img src="https://img.icons8.com/?size=70&id=Xy10Jcu1L2Su&format=png&color=000000" title="Instagram"/></a>
 </div>
