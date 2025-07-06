@@ -88,7 +88,7 @@
 <h2 align="center"> Connect with Me </h2>
 <div align="center">
     <a href="mailto:peradheep200617@outlook.com" target="_blank">
-      <img src="https://img.icons8.com/?size=70&id=ut6gQeo5pNqf&format=png&color=000000" title="Email" height="55"/>
+      <img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" title="Email" height="55"/>
     </a>
     <a href="https://www.linkedin.com/in/peradheep-y" target="_blank"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" title="Linkedin" height="55" /></a>
     <a href="https://www.linkedin.com/in/peradheep-y" target="_blank"><img src="https://img.icons8.com/?size=100&id=Wkmw3VcFPr8T&format=png&color=000000"  title="Dribble" height="55" /></a>
