@@ -34,7 +34,7 @@
         <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
         <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
     </div>
-    <h3>Full Stack Web Development</h3>
+    <h3>Full Stack Development</h3>
     <div>
         <img src="https://skillicons.dev/icons?i=react" title="React"/>
         <img src="https://skillicons.dev/icons?i=next" title="NextJS"/>
